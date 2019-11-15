@@ -4,7 +4,7 @@
 - [0.02146903912400594, 0.992]
 
 
-**DEFINITIONS**
+# **DEFINITIONS**
 
 ***1)Convolution:***
 To define convolution in a mathematical perspective, convolution is the measure of how much two functions/datapoints/images pixel values overlap on each other as they moves. 
